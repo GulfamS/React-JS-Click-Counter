@@ -1,0 +1,41 @@
+.container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #2d3a35;
+  font-family: Roboto;
+  font-size: 30px;
+  text-align: center;
+}
+
+.description {
+  font-family: Roboto;
+  color: #2d3a35;
+  font-size: 18px;
+  text-align: center;
+}
+
+.button {
+  background-color: #007bff;
+  font-family: Roboto;
+  color: #ffffff;
+  font-size: 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  padding: 8px;
+}
+
+.count {
+  color: #c20a75;
+  font-family: Roboto;
+  font-size: 28px;
+}
